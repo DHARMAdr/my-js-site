@@ -1,2 +1,0 @@
-# my-js-site
-Mysite
